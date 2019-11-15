@@ -1,0 +1,11 @@
+.col-md-3, .col-md-9{
+    padding-right: 0px;
+    padding-left: 0px;
+    font-family: 'Orbitron', sans-serif;
+}
+a{
+    color: aliceblue;
+}
+a:hover{
+    color: brown;
+}
